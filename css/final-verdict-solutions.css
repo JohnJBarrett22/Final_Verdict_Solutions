@@ -94,7 +94,7 @@ ul {
 }
 
 li {
-  margin-bottom: 10px;
+  margin-bottom: 7px;
 }
 
 img {
@@ -1377,6 +1377,24 @@ figcaption {
 
 .left {
   text-align: left;
+}
+
+.list-light {
+  opacity: 0.6;
+}
+
+.list-light.center {
+  text-align: center;
+}
+
+.list-light.left {
+  margin-bottom: 45px;
+  text-align: left;
+  list-style-type: lower-alpha;
+}
+
+.list-item {
+  list-style-type: lower-alpha;
 }
 
 @media screen and (max-width: 991px) {
