@@ -1397,6 +1397,21 @@ figcaption {
   list-style-type: lower-alpha;
 }
 
+.link {
+  display: inline-block;
+}
+
+.fvs-link {
+  display: inline-block;
+  color: #0f1756;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.fvs-link:hover {
+  color: #ce212a;
+}
+
 @media screen and (max-width: 991px) {
   .section.cc-cta {
     padding-right: 0px;
