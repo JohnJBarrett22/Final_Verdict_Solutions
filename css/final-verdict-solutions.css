@@ -1396,6 +1396,7 @@ figcaption {
 }
 
 .bio-grid {
+  margin-top: 72px;
   -ms-grid-columns: 1fr 1fr;
   grid-template-columns: 1fr 1fr;
   -ms-grid-rows: auto;
