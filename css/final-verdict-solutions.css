@@ -741,6 +741,13 @@ figcaption {
   line-height: 20px;
 }
 
+.success-story-cover-pic {
+  width: 100%;
+  height: 225px;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
 .projects-grid {
   margin-bottom: 60px;
   grid-column-gap: 30px;
